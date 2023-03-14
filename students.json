@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Кирилл Твердохлебов",
+        "faculcy": "Горный",
+        "id": 23,
+        "partTime": false,
+        "sex": "male"
+    },
+    {
+        "name": "Дмитрий Парфенов",
+        "faculcy": "Информационных технологий",
+        "id": 107,
+        "partTime": false,
+        "sex": "male"
+    },
+    {
+        "name": "Ольга Назарова",
+        "faculcy": "Педагогический",
+        "id": 84,
+        "partTime": false,
+        "sex": "female"
+    },
+    {
+        "name": "Инна Ушакова",
+        "faculcy": "Информационных технологий",
+        "id": 12,
+        "partTime": true,
+        "sex": "female"
+    },
+    {
+        "name": "Ульяна Прокопенко",
+        "faculcy": "Краеведние",
+        "id": 71,
+        "partTime": false,
+        "sex": "female"
+    },
+    {
+        "name": "Денис Яковлев",
+        "faculcy": "Горный",
+        "id": 34,
+        "partTime": true,
+        "sex": "male"
+    },
+    {
+        "name": "Алина Вавилина",
+        "faculcy": "Педагогический",
+        "id": 44,
+        "partTime": false,
+        "sex": "female"
+    },
+    {
+        "name": "Кирилл Емельянов",
+        "faculcy": "Краеведние",
+        "id": 12,
+        "partTime": true,
+        "sex": "male"
+    },
+    {
+        "name": "Павел Утесов",
+        "faculcy": "Педагогический",
+        "id": 103,
+        "partTime": true,
+        "sex": "male"
+    },{
+        "name": "Наталья Устинова",
+        "faculcy": "Информационных технологий",
+        "id": 8,
+        "partTime": false,
+        "sex": "female"
+    }
+]
